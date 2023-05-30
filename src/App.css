@@ -35,7 +35,7 @@
   margin-right: 25px;
   font-size: 20px;
   color: #ccc;
-  background-color: #6b705c;
+  background-color: #006d77;
   border: 1px solid #c89666;
   border-radius: 10px;
 }
@@ -46,7 +46,7 @@
   font-size: 20px;
   border-radius: 10px;
   border: 0;
-  background-color: #6b705c;
+  background-color: #006d77;
   cursor: pointer;
 }
 
@@ -57,7 +57,7 @@
   border-radius: 10px;
   padding: 10px;
   max-height: 30px;
-  background-color: #1b263b;
+  background-color: #006d77;
 }
 
 .button-complete,
